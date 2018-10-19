@@ -8,6 +8,8 @@
 ![key1](./Images/key1.png)
 ![key2](./Images/key2.png)
 
+[下载地址🕹🎮](https://github.com/doghappy/GameHelper/releases)
+
 
 # 支持游戏
 
