@@ -1,44 +1,54 @@
 ﻿n::
 Send {h down}
-Sleep 110
+Sleep 20
 Send {h up}
-Sleep 220
+Sleep 140
+
 Send {j down}
-Sleep 100
-Send {j up}
-Sleep 130
-Send {u down}
-Sleep 100
-Send {u up}
-Sleep 180
-Send {j down}
-Sleep 100
-Send {j up}
-Sleep 150
-Send {u down}
-Sleep 110
-Send {u up}
-Sleep 180
-Send {j down}
-Sleep 110
+Sleep 20
 Send {j up}
 Sleep 140
+
 Send {u down}
-Sleep 80
+Sleep 20
 Send {u up}
-Sleep 170
+Sleep 160
+
+Send {j down}
+Sleep 20
+Send {j up}
+Sleep 180
+
+Send {u down}
+Sleep 20
+Send {u up}
+Sleep 180
+
+Send {j down}
+Sleep 20
+Send {j up}
+Sleep 180
+
+Send {u down}
+Sleep 20
+Send {u up}
+Sleep 200
+
 Send {k down}
-Sleep 110
+Sleep 20
 Send {k up}
-Sleep 220
+Sleep 240
+
 Send {u down}
-Sleep 100
+Sleep 20
 Send {u up}
-Sleep 260
+Sleep 240
+
 Send {u down}
-Sleep 110
+Sleep 20
 Send {u up}
-Sleep 210
+Sleep 240
+
 Send {u down}
-Sleep 110
+Sleep 20
 Send {u up}
