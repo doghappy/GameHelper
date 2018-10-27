@@ -1,2 +1,2 @@
-﻿#Include, ./Common/JDown.ahk
-#Include, ./Common/SWJ.ahk
+﻿#Include, ./Dinosaur/JDown.ahk
+#Include, ./Dinosaur/SWJ.ahk

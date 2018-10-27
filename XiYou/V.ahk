@@ -1,41 +1,41 @@
 ﻿v::
 Send {w down}
-Sleep 20
+Sleep 1
 Send {w up}
-Sleep 20
+Sleep 1
 Send {s down}
-Sleep 20
+Sleep 1
 Send {s up}
-Sleep 20
+Sleep 1
 Send {w down}
-Sleep 20
+Sleep 1
 Send {w up}
-Sleep 20
+Sleep 1
 Send {s down}
-Sleep 20
+Sleep 1
 Send {s up}
-Sleep 20
+Sleep 1
 Send {w down}
-Sleep 20
+Sleep 1
 Send {w up}
-Sleep 20
+Sleep 1
 Send {s down}
-Sleep 20
+Sleep 1
 Send {s up}
-Sleep 20
+Sleep 1
 Send {w down}
-Sleep 20
+Sleep 1
 Send {w up}
-Sleep 20
+Sleep 1
 Send {s down}
-Sleep 20
+Sleep 1
 Send {s up}
-Sleep 20
+Sleep 1
 Send {w down}
-Sleep 20
+Sleep 1
 Send {w up}
-Sleep 20
+Sleep 1
 Send {s down}
-Sleep 20
+Sleep 1
 Send {s up}
 return
