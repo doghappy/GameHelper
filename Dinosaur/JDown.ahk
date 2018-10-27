@@ -1,12 +1,15 @@
-﻿~j::
+﻿Process, Priority, , high
+~$j::
 {
-    if(V!=0)
+    if(V != 0)
     {
         Loop
         {
             if GetKeyState("j","P")
             {
-                send {j}
+                send {j down}
+                sleep 1
+                send {j up}
                 sleep 1
             }
             else
