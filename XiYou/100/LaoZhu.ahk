@@ -1,4 +1,7 @@
-﻿n::
+﻿^F11::
+Suspend
+return
+n::
 Send {h down}
 Sleep 1
 Send {h up}
