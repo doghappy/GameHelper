@@ -7,4 +7,5 @@ return
 #Include, ./XiYou/YuanShen.ahk
 #Include, ./XiYou/V.ahk
 #Include, ./XiYou/O.ahk
+#Include, ./XiYou/SK.ahk
 #Include, ./XiYou/2Duan.ahk
