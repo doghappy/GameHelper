@@ -1,4 +1,4 @@
-﻿F12::
+﻿^F12::
 Suspend
 return
 
