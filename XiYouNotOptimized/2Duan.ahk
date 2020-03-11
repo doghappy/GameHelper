@@ -1,4 +1,4 @@
-﻿c::
+﻿m::
 Send {a Down}
 Sleep 1
 Send {s Down}
@@ -23,7 +23,7 @@ Send {j Up}
 Send {d Up}
 return
 
-x::
+b::
 Send {d Down}
 Sleep 1
 Send {s Down}
