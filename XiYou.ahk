@@ -9,3 +9,4 @@ return
 #Include, ./XiYou/O.ahk
 #Include, ./XiYou/FanTengWu.ahk
 #Include, ./XiYou/2Duan.ahk
+#Include, ./XiYou/JDown.ahk

@@ -9,3 +9,4 @@ return
 #Include, ./XiYou/V.ahk
 #Include, ./XiYou/WSJ.ahk
 #Include, ./XiYou/YuanShenQQSimplify.ahk
+#Include, ./XiYou/JDown.ahk

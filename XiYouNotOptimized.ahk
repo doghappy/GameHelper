@@ -8,4 +8,4 @@ return
 #Include, ./XiYouNotOptimized/V.ahk
 #Include, ./XiYouNotOptimized/O.ahk
 #Include, ./XiYouNotOptimized/2Duan.ahk
-#Include, ./XiYou/FanTengWu.ahk
+#Include, ./XiYou/JDown.ahk
