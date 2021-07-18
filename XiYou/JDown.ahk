@@ -1,20 +1,21 @@
-﻿Process, Priority, , high
-$;::
+﻿`;::
+While GetKeyState(";", "P")
 {
-    if(V != 0)
-    {
-        Loop
-        {
-            if GetKeyState(";","P")
-            {
-                send {j down}
-                sleep 1
-                send {j up}
-                sleep 1
-            }
-            else
-                break
-        }
-    }
+    Send {j down}
+    Sleep 1
+    Send {j up}
+    Sleep 1
+    Send {j down}
+    Sleep 1
+    Send {j up}
+    Sleep 1
+    Send {j down}
+    Sleep 1
+    Send {j up}
+    Sleep 1
+    Send {j down}
+    Sleep 1
+    Send {j up}
+    Sleep 1
 }
 return

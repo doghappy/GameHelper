@@ -48,7 +48,7 @@ Sleep 220
 Send {u down}
 Sleep 1
 Send {u up}
-Sleep 260
+Sleep 280
 
 Send {j down}
 Sleep 1
