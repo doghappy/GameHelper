@@ -1,14 +1,17 @@
 ﻿q::
-Send {d Down}
-Sleep 1
+Send {u Down}
+Sleep 20
+Send {u Up}
+Sleep 20
 Send {s Down}
-Send {d Up}
 Sleep 1
-Send {d Down}
 Send {s Up}
+Sleep 1
+Send {w Down}
 Sleep 1
 Send {j Down}
 Sleep 1
 Send {j Up}
-Send {d Up}
+Sleep 1
+Send {w Up}
 return
